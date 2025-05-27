@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "name": "News site",
+      "image": "./assets/project-news-site.webp",
+      "description": "A news site built with HTML5 and CSS3, showcasing a clean and modern design.",
+      "tags": [
+        "HTML5",
+        "CSS3"
+      ],
+      "netlify": "https://brightsidenews.netlify.app/",
+      "github": "https://github.com/nordiskastil/nathalie-project-news-site-main.git"
+    },
+    {
+      "name": "Business site",
+      "image": "./assets/project-business-site.webp",
+      "description": "A business site for Nordisk Tech, featuring a professional layout and responsive design.",
+      "tags": [
+        "HTML5",
+        "CSS3"
+      ],
+      "netlify": "https://business-site-nordisk-tech.netlify.app/",
+      "github": "https://github.com/nordiskastil/business-site.git"
+    },
+    {
+      "name": "Pizzabot",
+      "image": "./assets/project-pizza-bot.webp",
+      "description": "An interactive pizzabot project that allows users to order pizza online.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "netlify": "link",
+      "github": "https://github.com/nordiskastil/technigo-project-pizzabot.git"
+    },
+    {
+      "name": "Library",
+      "image": "./assets/project-library.webp",
+      "description": "A library project that demonstrates the use of HTML5, CSS3, and JavaScript to create a functional and visually appealing interface.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "netlify": "https://library-nathalie.netlify.app/",
+      "github": "https://github.com/nordiskastil/technigo-project-library.git"
+    },
+    {
+      "name": "Weather app",
+      "image": "./assets/project-weather-app.webp",
+      "description": "A weather application that fetches data from a weather API and displays current weather conditions.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "APIs"
+      ],
+      "netlify": "https://nathaliesweather.netlify.app/",
+      "github": "https://github.com/nordiskastil/technigo-project-weather-app.git"
+    },
+    {
+      "name": "Portfolio",
+      "image": "./assets/project-portfolio.webp",
+      "description": "A personal portfolio showcasing my projects and skills, built with React, HTML5 and CSS3.",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React"
+      ],
+      "netlify": "https://nathalieportfolio.netlify.app/",
+      "github": "https://github.com/nordiskastil/nathalie-project-portfolio.git"
+    }
+  ]
+}
