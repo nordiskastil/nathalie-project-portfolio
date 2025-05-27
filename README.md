@@ -13,7 +13,7 @@ I already spend a lot of time on this assignment, but I probably would make it m
 - How to run the project locally
 
 ## View it live
-
+https://nathalies-project-portfolio.netlify.app/
 
 ## Getting Started with the Project
 
